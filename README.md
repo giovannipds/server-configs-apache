@@ -10,6 +10,14 @@ served with the correct content-type and are accessible, if needed,
 even cross-domain.
 
 
+## Call for maintainers
+
+**ATTENTION**: We're currently looking for maintainers. If you'd
+like to help, please take a careful look at the project, check the
+[contributor's guidelines](CONTRIBUTING.md) and get in touch with
+me by [Twitter](https://twitter.com/alrra).
+
+
 ## Getting Started
 
 There are a few options for getting the Apache server configs:
